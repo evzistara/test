@@ -423,7 +423,7 @@ section{
 }
 .activity__table, th, td{
     border: 1px solid black;
-    padding: 0.3rem;
+    padding: 0rem;
     border-collapse: collapse;
     margin-left: -0.5rem;
 }
